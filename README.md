@@ -1,1 +1,3 @@
+# Strapi application
 
+yarn dev
