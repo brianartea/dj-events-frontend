@@ -3,8 +3,8 @@ import styles from "@/styles/Showcase.module.css";
 export default function Showcase() {
   return (
     <div className={styles.showcase}>
-      <h1>Welcome to the developers community</h1>
-      <h2>Great web and app development resources</h2>
+      <h1>Welcome to the DJ community</h1>
+      <h2>A Great resource for DJ's to post their events</h2>
     </div>
   );
 }
